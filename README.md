@@ -1,6 +1,7 @@
 # Node.js run time that implements Express to finish building the Skeleton for a Book review website
 
 Contains the properties to:
+All of which is contained the Finalproject folder under the respective Routes
 
 1. Retrieve the database of books
 2. Retrieve a specific book baised on ISBN number
