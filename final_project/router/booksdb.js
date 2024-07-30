@@ -1,3 +1,11 @@
+/**
+Database of books that takes the from of a map: Index values as keys and it is mapped to a collection of
+JSON like elements that also have key value pairs.
+
+Author is mapped to a String
+Title is mapped to a String
+Reviews is mapped to a set of Strings
+*/
 let books = {
       1: {"author": "Chinua Achebe","title": "Things Fall Apart", "reviews": {} },
       2: {"author": "Hans Christian Andersen","title": "Fairy tales", "reviews": {} },
